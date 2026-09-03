@@ -156,3 +156,10 @@ public class HomeController {
 ```properties
 server.port=8081
 ```
+
+### OUTPUT
+![Spring Boot MVC Application](https://github.com/user-attachments/assets/5325cfba-7c31-4fb7-b2e5-dd5b7eb81850)
+
+### RESULT
+
+Thus, the Simple Spring Boot MVC Application was successfully developed using a Controller, Model, and Thymeleaf View to handle HTTP requests and render dynamic HTML content.
